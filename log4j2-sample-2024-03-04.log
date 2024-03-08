@@ -1,0 +1,83 @@
+2024-03-05T02:08:21,522 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/majdeddinemejbri/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-03-05T02:08:21,852 [main] INFO  (TestBase.java:49) - Setting up the driver...
+2024-03-05T02:08:21,853 [main] INFO  (ConfigurationReader.java:19) - Loading the property file...
+2024-03-05T02:08:21,855 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {browserType} from the property file
+2024-03-05T02:08:21,857 [main] INFO  (Driver.java:24) - Getting a driver instance
+2024-03-05T02:08:21,857 [main] INFO  (Driver.java:39) - Starting a Chrome browser
+2024-03-05T02:08:22,551 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-05T02:08:22,566 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-05T02:08:25,109 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-05T02:08:25,741 [main] INFO  (LoginPage.java:62) - Entering username {standard_user} into the username field
+2024-03-05T02:08:25,987 [main] INFO  (LoginPage.java:71) - Entering password {secret_sauce} into the password field
+2024-03-05T02:08:26,076 [main] INFO  (LoginPage.java:80) - Clicking on submit button
+2024-03-05T02:08:26,198 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-05T02:08:26,260 [main] INFO  (MainPage.java:102) - Getting the href from the Twitter Logo
+2024-03-05T02:08:26,300 [main] INFO  (MainPage.java:110) - Getting the href from the Facebook Logo
+2024-03-05T02:08:26,332 [main] INFO  (MainPage.java:118) - Getting the href from the LinkedIn Logo
+2024-03-05T02:08:26,364 [main] INFO  (TestBase.java:62) - Closing the driver...
+2024-03-05T02:08:26,367 [main] INFO  (SeleniumUtils.java:117) - verify_Login_With_Valid_User_Name_And_Password-------> {1}  <---------
+2024-03-05T02:09:05,058 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/majdeddinemejbri/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-03-05T02:09:05,315 [main] INFO  (TestBase.java:49) - Setting up the driver...
+2024-03-05T02:09:05,316 [main] INFO  (ConfigurationReader.java:19) - Loading the property file...
+2024-03-05T02:09:05,317 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {browserType} from the property file
+2024-03-05T02:09:05,319 [main] INFO  (Driver.java:24) - Getting a driver instance
+2024-03-05T02:09:05,319 [main] INFO  (Driver.java:39) - Starting a Chrome browser
+2024-03-05T02:09:05,686 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-05T02:09:05,703 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-05T02:09:08,139 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-05T02:09:08,637 [main] INFO  (LoginPage.java:62) - Entering username {standard_user} into the username field
+2024-03-05T02:09:08,872 [main] INFO  (LoginPage.java:71) - Entering password {secret_sauce} into the password field
+2024-03-05T02:09:08,964 [main] INFO  (LoginPage.java:80) - Clicking on submit button
+2024-03-05T02:09:09,097 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-05T02:09:09,151 [main] INFO  (MainPage.java:102) - Getting the href from the Twitter Logo
+2024-03-05T02:09:09,186 [main] INFO  (MainPage.java:110) - Getting the href from the Facebook Logo
+2024-03-05T02:09:09,220 [main] INFO  (MainPage.java:118) - Getting the href from the LinkedIn Logo
+2024-03-05T02:09:09,249 [main] INFO  (TestBase.java:62) - Closing the driver...
+2024-03-05T02:09:09,253 [main] INFO  (SeleniumUtils.java:117) - verify_Login_With_Valid_User_Name_And_Password-------> {1}  <---------
+2024-03-05T02:09:56,287 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/majdeddinemejbri/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-03-05T02:09:56,576 [main] INFO  (TestBase.java:49) - Setting up the driver...
+2024-03-05T02:09:56,577 [main] INFO  (ConfigurationReader.java:19) - Loading the property file...
+2024-03-05T02:09:56,578 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {browserType} from the property file
+2024-03-05T02:09:56,579 [main] INFO  (Driver.java:24) - Getting a driver instance
+2024-03-05T02:09:56,579 [main] INFO  (Driver.java:39) - Starting a Chrome browser
+2024-03-05T02:09:57,005 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-05T02:09:57,028 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-05T02:09:59,642 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-05T02:10:00,192 [main] INFO  (LoginPage.java:62) - Entering username {standard_user} into the username field
+2024-03-05T02:10:00,437 [main] INFO  (LoginPage.java:71) - Entering password {secret_sauce} into the password field
+2024-03-05T02:10:00,534 [main] INFO  (LoginPage.java:80) - Clicking on submit button
+2024-03-05T02:10:42,060 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-05T02:14:05,189 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-05T02:14:15,268 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-05T02:14:26,227 [main] INFO  (MainPage.java:102) - Getting the href from the Twitter Logo
+2024-03-05T02:14:33,271 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/majdeddinemejbri/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-03-05T02:14:33,566 [main] INFO  (TestBase.java:49) - Setting up the driver...
+2024-03-05T02:14:33,567 [main] INFO  (ConfigurationReader.java:19) - Loading the property file...
+2024-03-05T02:14:33,568 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {browserType} from the property file
+2024-03-05T02:14:33,569 [main] INFO  (Driver.java:24) - Getting a driver instance
+2024-03-05T02:14:33,570 [main] INFO  (Driver.java:39) - Starting a Chrome browser
+2024-03-05T02:14:33,979 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-05T02:14:33,998 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-05T02:14:36,548 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-05T02:14:36,940 [main] INFO  (LoginPage.java:62) - Entering username {standard_user} into the username field
+2024-03-05T02:14:37,188 [main] INFO  (LoginPage.java:71) - Entering password {secret_sauce} into the password field
+2024-03-05T02:14:37,289 [main] INFO  (LoginPage.java:80) - Clicking on submit button
+2024-03-05T02:14:37,612 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-05T02:14:41,903 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-05T02:14:42,180 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-05T02:14:45,369 [main] INFO  (MainPage.java:102) - Getting the href from the Twitter Logo
+2024-03-05T02:14:45,699 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-05T02:14:58,924 [main] INFO  (MainPage.java:110) - Getting the href from the Facebook Logo
+2024-03-05T02:14:59,199 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-05T02:15:09,257 [main] INFO  (MainPage.java:118) - Getting the href from the LinkedIn Logo
+2024-03-05T02:15:09,541 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-05T02:15:25,127 [main] INFO  (TestBase.java:62) - Closing the driver...
+2024-03-05T02:15:25,173 [main] INFO  (SeleniumUtils.java:117) - verify_Login_With_Valid_User_Name_And_Password-------> {1}  <---------

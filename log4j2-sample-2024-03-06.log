@@ -1,0 +1,195 @@
+2024-03-06T23:58:45,757 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/majdeddinemejbri/IdeaProjects/RappidTech-Selenium/rappidtech-selenium-teestng-maven-final/testnj-xml-fiels/run-regression-test.xml
+
+2024-03-06T23:58:46,209 [main] INFO  (TestBase.java:47) - Setting up the driver...
+2024-03-06T23:58:46,212 [main] INFO  (Driver.java:26) - Getting a driver instance
+2024-03-06T23:58:46,212 [main] INFO  (Driver.java:53) - Starting a Chrome browser
+2024-03-06T23:58:47,524 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-06T23:58:47,547 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-06T23:58:50,687 [main] INFO  (ConfigurationReader.java:19) - Loading the property file...
+2024-03-06T23:58:50,688 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-06T23:58:51,284 [main] INFO  (TC_10_VerifyDefaultFilteringOption.java:18) - Verify default filtering options
+2024-03-06T23:58:51,304 [main] INFO  (LoginPage.java:63) - Entering username {standard_user} into the username field
+2024-03-06T23:58:51,701 [main] INFO  (LoginPage.java:72) - Entering password {secret_sauce} into the password field
+2024-03-06T23:58:51,790 [main] INFO  (LoginPage.java:81) - Clicking on submit button
+2024-03-06T23:58:51,949 [main] INFO  (MainPage.java:196) - Checking the default filter selection in the main page
+2024-03-06T23:58:52,109 [main] INFO  (TestBase.java:60) - Closing the driver...
+2024-03-06T23:58:52,117 [main] INFO  (SeleniumUtils.java:117) - verify_Default_Filtering_Option-------> {1}  <---------
+2024-03-06T23:58:52,121 [main] INFO  (Driver.java:67) - Closing the browser
+2024-03-06T23:58:52,354 [main] INFO  (TestBase.java:47) - Setting up the driver...
+2024-03-06T23:58:52,355 [main] INFO  (Driver.java:26) - Getting a driver instance
+2024-03-06T23:58:52,356 [main] INFO  (Driver.java:53) - Starting a Chrome browser
+2024-03-06T23:58:52,386 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-06T23:58:52,406 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-06T23:58:55,003 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-06T23:58:55,548 [main] INFO  (TC_04_VerifyLoginWithEmptyUserName.java:19) - Verify login with empty username
+2024-03-06T23:58:55,550 [main] INFO  (LoginPage.java:63) - Entering username {} into the username field
+2024-03-06T23:58:55,698 [main] INFO  (LoginPage.java:72) - Entering password {secret_sauce} into the password field
+2024-03-06T23:58:55,962 [main] INFO  (LoginPage.java:81) - Clicking on submit button
+2024-03-06T23:58:56,071 [main] INFO  (LoginPage.java:125) - Getting the error message for the required username
+2024-03-06T23:58:56,104 [main] INFO  (TestBase.java:60) - Closing the driver...
+2024-03-06T23:58:56,105 [main] INFO  (SeleniumUtils.java:117) - verify_Login_With_Empty_UserName-------> {1}  <---------
+2024-03-06T23:58:56,105 [main] INFO  (Driver.java:67) - Closing the browser
+2024-03-06T23:58:56,264 [main] INFO  (TestBase.java:47) - Setting up the driver...
+2024-03-06T23:58:56,265 [main] INFO  (Driver.java:26) - Getting a driver instance
+2024-03-06T23:58:56,265 [main] INFO  (Driver.java:53) - Starting a Chrome browser
+2024-03-06T23:58:56,296 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-06T23:58:56,316 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-06T23:58:58,471 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-06T23:58:58,954 [main] INFO  (TC_03_VerifyTheListOfAcceptedUserName.java:22) - Verify The list of the accepted usernames
+2024-03-06T23:58:58,956 [main] INFO  (LoginPage.java:110) - Getting the list of the valid usernames
+2024-03-06T23:58:59,023 [main] INFO  (TestBase.java:60) - Closing the driver...
+2024-03-06T23:58:59,025 [main] INFO  (SeleniumUtils.java:117) - verify_The_List_Of_Accepted_UserName-------> {1}  <---------
+2024-03-06T23:58:59,028 [main] INFO  (Driver.java:67) - Closing the browser
+2024-03-06T23:58:59,180 [main] INFO  (TestBase.java:47) - Setting up the driver...
+2024-03-06T23:58:59,181 [main] INFO  (Driver.java:26) - Getting a driver instance
+2024-03-06T23:58:59,182 [main] INFO  (Driver.java:53) - Starting a Chrome browser
+2024-03-06T23:58:59,211 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-06T23:58:59,225 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-06T23:59:01,335 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-06T23:59:01,804 [main] INFO  (TC_05_VerifyLoginWithEmptyPassword.java:17) - Verify login with empty password
+2024-03-06T23:59:01,814 [main] INFO  (LoginPage.java:63) - Entering username {standard_user} into the username field
+2024-03-06T23:59:02,100 [main] INFO  (LoginPage.java:72) - Entering password {} into the password field
+2024-03-06T23:59:02,194 [main] INFO  (LoginPage.java:81) - Clicking on submit button
+2024-03-06T23:59:02,313 [main] INFO  (LoginPage.java:134) - Getting the error message for the required password
+2024-03-06T23:59:02,349 [main] INFO  (TestBase.java:60) - Closing the driver...
+2024-03-06T23:59:02,350 [main] INFO  (SeleniumUtils.java:117) - verify_Login_With_Empty_Password-------> {1}  <---------
+2024-03-06T23:59:02,350 [main] INFO  (Driver.java:67) - Closing the browser
+2024-03-06T23:59:02,528 [main] INFO  (TestBase.java:47) - Setting up the driver...
+2024-03-06T23:59:02,529 [main] INFO  (Driver.java:26) - Getting a driver instance
+2024-03-06T23:59:02,529 [main] INFO  (Driver.java:53) - Starting a Chrome browser
+2024-03-06T23:59:02,572 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-06T23:59:02,590 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-06T23:59:04,722 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-06T23:59:05,198 [main] INFO  (TC_13_VerifyCheckoutOverview.java:23) - Verifying checkout Information after selecting items from main page
+2024-03-06T23:59:05,198 [main] INFO  (TC_13_VerifyCheckoutOverview.java:26) - Verifying checkout information for selected items in the main page 
+2024-03-06T23:59:05,199 [main] INFO  (LoginPage.java:89) - Logging to sauce demo using valid credentials
+2024-03-06T23:59:05,199 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {validUserName} from the property file
+2024-03-06T23:59:05,199 [main] INFO  (LoginPage.java:63) - Entering username {standard_user} into the username field
+2024-03-06T23:59:05,469 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {validPassword} from the property file
+2024-03-06T23:59:05,470 [main] INFO  (LoginPage.java:72) - Entering password {secret_sauce} into the password field
+2024-03-06T23:59:05,597 [main] INFO  (LoginPage.java:81) - Clicking on submit button
+2024-03-06T23:59:05,757 [main] INFO  (MainPage.java:139) - Clicking on the Add to Cart for Back Pack
+2024-03-06T23:59:05,836 [main] INFO  (MainPage.java:237) - Clicking on the Add to cart for the Bike Light Item
+2024-03-06T23:59:05,909 [main] INFO  (MainPage.java:185) - Clicking on the shopping cart icon
+2024-03-06T23:59:05,998 [main] INFO  (CartPage.java:128) - Clicking on Checkout Button
+2024-03-06T23:59:06,288 [main] INFO  (CheckoutPage.java:86) - Entering Marquis into the First Name input box
+2024-03-06T23:59:06,390 [main] INFO  (CheckoutPage.java:94) - Entering Kohler into the Last Name input box
+2024-03-06T23:59:06,499 [main] INFO  (CheckoutPage.java:102) - Entering 92599-3187 into Zip Code input box
+2024-03-06T23:59:06,607 [main] INFO  (CheckoutPage.java:110) - Clicking on Continue button
+2024-03-06T23:59:06,697 [main] INFO  (CheckoutOverViewPage.java:39) -  Checking if the payment information label is displayed
+2024-03-06T23:59:06,769 [main] INFO  (CheckoutOverViewPage.java:43) -  Checking if the shipping information label is displayed
+2024-03-06T23:59:06,799 [main] INFO  (CheckoutOverViewPage.java:48) - Getting the total price of the items from the overview pages
+2024-03-06T23:59:06,831 [main] INFO  (TestBase.java:60) - Closing the driver...
+2024-03-06T23:59:06,831 [main] INFO  (SeleniumUtils.java:117) - verify_Checkout_Information_For_Selected_Items-------> {1}  <---------
+2024-03-06T23:59:06,832 [main] INFO  (Driver.java:67) - Closing the browser
+2024-03-06T23:59:06,983 [main] INFO  (TestBase.java:47) - Setting up the driver...
+2024-03-06T23:59:06,984 [main] INFO  (Driver.java:26) - Getting a driver instance
+2024-03-06T23:59:06,984 [main] INFO  (Driver.java:53) - Starting a Chrome browser
+2024-03-06T23:59:07,010 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-06T23:59:07,020 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-06T23:59:09,189 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-06T23:59:09,717 [main] INFO  (TC_11_VerifyItemInCart.java:19) - Verifying that adding Sauce Labs Backpack is available in the Cart Page 
+2024-03-06T23:59:09,718 [main] INFO  (LoginPage.java:89) - Logging to sauce demo using valid credentials
+2024-03-06T23:59:09,718 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {validUserName} from the property file
+2024-03-06T23:59:09,722 [main] INFO  (LoginPage.java:63) - Entering username {standard_user} into the username field
+2024-03-06T23:59:09,978 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {validPassword} from the property file
+2024-03-06T23:59:09,978 [main] INFO  (LoginPage.java:72) - Entering password {secret_sauce} into the password field
+2024-03-06T23:59:10,124 [main] INFO  (LoginPage.java:81) - Clicking on submit button
+2024-03-06T23:59:10,270 [main] INFO  (MainPage.java:139) - Clicking on the Add to Cart for Back Pack
+2024-03-06T23:59:10,349 [main] INFO  (MainPage.java:185) - Clicking on the shopping cart icon
+2024-03-06T23:59:10,420 [main] INFO  (CartPage.java:104) - Getting the label of the BackPack item from Cart page
+2024-03-06T23:59:10,453 [main] INFO  (CartPage.java:112) - Getting the Description of the BackPack item from Cart page
+2024-03-06T23:59:10,480 [main] INFO  (CartPage.java:120) - Getting the Price of the BackPack item from Cart page
+2024-03-06T23:59:10,521 [main] INFO  (CartPage.java:104) - Getting the label of the BackPack item from Cart page
+2024-03-06T23:59:10,549 [main] INFO  (MainPage.java:212) - Getting the label of the BackPack item from Cart page
+2024-03-06T23:59:10,585 [main] INFO  (CartPage.java:112) - Getting the Description of the BackPack item from Cart page
+2024-03-06T23:59:10,606 [main] INFO  (MainPage.java:221) - Getting the Description of the BackPack item from Cart page
+2024-03-06T23:59:10,639 [main] INFO  (CartPage.java:120) - Getting the Price of the BackPack item from Cart page
+2024-03-06T23:59:10,660 [main] INFO  (MainPage.java:229) - Getting the Price of the BackPack item from Cart page
+2024-03-06T23:59:10,678 [main] INFO  (TestBase.java:60) - Closing the driver...
+2024-03-06T23:59:10,678 [main] INFO  (SeleniumUtils.java:117) - Verify_Item_Is_Added_To_Cart-------> {1}  <---------
+2024-03-06T23:59:10,679 [main] INFO  (Driver.java:67) - Closing the browser
+2024-03-06T23:59:10,830 [main] INFO  (TestBase.java:47) - Setting up the driver...
+2024-03-06T23:59:10,831 [main] INFO  (Driver.java:26) - Getting a driver instance
+2024-03-06T23:59:10,832 [main] INFO  (Driver.java:53) - Starting a Chrome browser
+2024-03-06T23:59:10,851 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-06T23:59:10,864 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-06T23:59:12,974 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-06T23:59:13,384 [main] INFO  (TC_12_VerifyCheckout.java:20) - Verifying checkout page labels
+2024-03-06T23:59:13,386 [main] INFO  (LoginPage.java:89) - Logging to sauce demo using valid credentials
+2024-03-06T23:59:13,387 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {validUserName} from the property file
+2024-03-06T23:59:13,388 [main] INFO  (LoginPage.java:63) - Entering username {standard_user} into the username field
+2024-03-06T23:59:13,661 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {validPassword} from the property file
+2024-03-06T23:59:13,662 [main] INFO  (LoginPage.java:72) - Entering password {secret_sauce} into the password field
+2024-03-06T23:59:13,751 [main] INFO  (LoginPage.java:81) - Clicking on submit button
+2024-03-06T23:59:13,896 [main] INFO  (MainPage.java:185) - Clicking on the shopping cart icon
+2024-03-06T23:59:13,979 [main] INFO  (CartPage.java:128) - Clicking on Checkout Button
+2024-03-06T23:59:14,055 [main] INFO  (CheckoutPage.java:45) - Checking if element is displayed
+2024-03-06T23:59:14,090 [main] INFO  (CheckoutPage.java:53) - Checking if element is displayed
+2024-03-06T23:59:14,132 [main] INFO  (CheckoutPage.java:61) - Checking if element is displayed
+2024-03-06T23:59:14,165 [main] INFO  (CheckoutPage.java:69) - Checking if element is displayed
+2024-03-06T23:59:14,201 [main] INFO  (CheckoutPage.java:77) - Checking if element is displayed
+2024-03-06T23:59:14,229 [main] INFO  (TestBase.java:60) - Closing the driver...
+2024-03-06T23:59:14,229 [main] INFO  (SeleniumUtils.java:117) - verify_CheckoutPage_Labels-------> {1}  <---------
+2024-03-06T23:59:14,230 [main] INFO  (Driver.java:67) - Closing the browser
+2024-03-06T23:59:14,379 [main] INFO  (TestBase.java:47) - Setting up the driver...
+2024-03-06T23:59:14,379 [main] INFO  (Driver.java:26) - Getting a driver instance
+2024-03-06T23:59:14,380 [main] INFO  (Driver.java:53) - Starting a Chrome browser
+2024-03-06T23:59:14,401 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-06T23:59:14,414 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-06T23:59:16,489 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-06T23:59:16,952 [main] INFO  (TC_01_VerifyLoginWithValidUserNameAndPassword.java:21) -  Verify Login with Valid UserName and Password
+2024-03-06T23:59:16,959 [main] INFO  (LoginPage.java:63) - Entering username {standard_user} into the username field
+2024-03-06T23:59:17,242 [main] INFO  (LoginPage.java:72) - Entering password {secret_sauce} into the password field
+2024-03-06T23:59:17,372 [main] INFO  (LoginPage.java:81) - Clicking on submit button
+2024-03-06T23:59:17,538 [main] INFO  (MainPage.java:92) - Checking if the Main Logo Label is displayed or not
+2024-03-06T23:59:17,576 [main] INFO  (MainPage.java:102) - Getting the href from the Twitter Logo
+2024-03-06T23:59:17,624 [main] INFO  (MainPage.java:110) - Getting the href from the Facebook Logo
+2024-03-06T23:59:17,667 [main] INFO  (MainPage.java:118) - Getting the href from the LinkedIn Logo
+2024-03-06T23:59:17,697 [main] INFO  (TestBase.java:60) - Closing the driver...
+2024-03-06T23:59:17,697 [main] INFO  (SeleniumUtils.java:117) - verify_Login_With_Valid_User_Name_And_Password-------> {1}  <---------
+2024-03-06T23:59:17,698 [main] INFO  (Driver.java:67) - Closing the browser
+2024-03-06T23:59:17,895 [main] INFO  (TestBase.java:47) - Setting up the driver...
+2024-03-06T23:59:17,896 [main] INFO  (Driver.java:26) - Getting a driver instance
+2024-03-06T23:59:17,896 [main] INFO  (Driver.java:53) - Starting a Chrome browser
+2024-03-06T23:59:17,911 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 122.0.6261.94 (resolved driver for Chrome 122)
+2024-03-06T23:59:17,923 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as /Users/majdeddinemejbri/.cache/selenium/chromedriver/mac64/122.0.6261.94/chromedriver
+2024-03-06T23:59:20,031 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-06T23:59:20,428 [main] INFO  (TC_06_VerifyListOfItemsInTheSauceDemoStore.java:26) - Verify list of items in the sauce demo store
+2024-03-06T23:59:20,431 [main] INFO  (LoginPage.java:63) - Entering username {standard_user} into the username field
+2024-03-06T23:59:20,720 [main] INFO  (LoginPage.java:72) - Entering password {secret_sauce} into the password field
+2024-03-06T23:59:20,829 [main] INFO  (LoginPage.java:81) - Clicking on submit button
+2024-03-06T23:59:20,963 [main] INFO  (MainPage.java:126) - Getting the inventory items from main page
+2024-03-06T23:59:21,013 [main] INFO  (MainPage.java:129) - Items are: {Sauce Labs Backpack} 
+2024-03-06T23:59:21,035 [main] INFO  (MainPage.java:129) - Items are: {Sauce Labs Bike Light} 
+2024-03-06T23:59:21,061 [main] INFO  (MainPage.java:129) - Items are: {Sauce Labs Bolt T-Shirt} 
+2024-03-06T23:59:21,086 [main] INFO  (MainPage.java:129) - Items are: {Sauce Labs Fleece Jacket} 
+2024-03-06T23:59:21,113 [main] INFO  (MainPage.java:129) - Items are: {Sauce Labs Onesie} 
+2024-03-06T23:59:21,138 [main] INFO  (MainPage.java:129) - Items are: {Test.allTheThings() T-Shirt (Red)} 
+2024-03-06T23:59:21,166 [main] INFO  (TestBase.java:60) - Closing the driver...
+2024-03-06T23:59:21,167 [main] INFO  (SeleniumUtils.java:117) - verify_List_Of_Items_In_The_SauceDemo_Store-------> {1}  <---------
+2024-03-06T23:59:21,167 [main] INFO  (Driver.java:67) - Closing the browser
+2024-03-06T23:59:45,991 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  /Users/majdeddinemejbri/IdeaProjects/RappidTech-Selenium/rappidtech-selenium-teestng-maven-final/testnj-xml-fiels/run-smoke-headless-test.xml
+
+2024-03-06T23:59:46,395 [main] INFO  (TestBase.java:47) - Setting up the driver...
+2024-03-06T23:59:46,396 [main] INFO  (Driver.java:26) - Getting a driver instance
+2024-03-06T23:59:46,397 [main] INFO  (Driver.java:31) - Starting a firefox browser
+2024-03-06T23:59:47,903 [main] INFO  (WebDriverManager.java:1568) - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+2024-03-06T23:59:48,206 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.gecko.driver as /Users/majdeddinemejbri/.cache/selenium/geckodriver/mac64/0.34.0/geckodriver
+2024-03-06T23:59:53,367 [main] INFO  (ConfigurationReader.java:19) - Loading the property file...
+2024-03-06T23:59:53,368 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-06T23:59:54,617 [main] INFO  (TC_10_VerifyDefaultFilteringOption.java:18) - Verify default filtering options
+2024-03-06T23:59:54,626 [main] INFO  (LoginPage.java:63) - Entering username {standard_user} into the username field
+2024-03-06T23:59:54,785 [main] INFO  (LoginPage.java:72) - Entering password {secret_sauce} into the password field
+2024-03-06T23:59:54,824 [main] INFO  (LoginPage.java:81) - Clicking on submit button
+2024-03-06T23:59:55,095 [main] INFO  (MainPage.java:196) - Checking the default filter selection in the main page
+2024-03-06T23:59:55,190 [main] INFO  (TestBase.java:60) - Closing the driver...
+2024-03-06T23:59:55,196 [main] INFO  (SeleniumUtils.java:117) - verify_Default_Filtering_Option-------> {1}  <---------
+2024-03-06T23:59:55,199 [main] INFO  (Driver.java:67) - Closing the browser
+2024-03-06T23:59:56,311 [main] INFO  (TestBase.java:47) - Setting up the driver...
+2024-03-06T23:59:56,312 [main] INFO  (Driver.java:26) - Getting a driver instance
+2024-03-06T23:59:56,312 [main] INFO  (Driver.java:31) - Starting a firefox browser
+2024-03-06T23:59:56,440 [main] INFO  (WebDriverManager.java:1217) - Using geckodriver 0.34.0 (resolved driver for Firefox 123)
+2024-03-06T23:59:56,455 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.gecko.driver as /Users/majdeddinemejbri/.cache/selenium/geckodriver/mac64/0.34.0/geckodriver
